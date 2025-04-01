@@ -33,3 +33,28 @@ lictappbackend/.vscode/settings.json
 lictappbackend/.vscode/tasks.json
 lictappbackend/.vscode/launch.json
 lictappbackend/.vscode/extensions.json
+
+# Logs
+lictappfrontend/logs
+lictappfrontend/*.log
+lictappfrontend/npm-debug.log*
+lictappfrontend/yarn-debug.log*
+lictappfrontend/yarn-error.log*
+lictappfrontend/pnpm-debug.log*
+lictappfrontend/lerna-debug.log*
+
+lictappfrontend/node_modules
+lictappfrontend/dist
+lictappfrontend/dist-ssr
+lictappfrontend/*.local
+
+# Editor directories and files
+lictappfrontend/.vscode/*
+lictappfrontend/!.vscode/extensions.json
+lictappfrontend/.idea
+lictappfrontend/.DS_Store
+lictappfrontend/*.suo
+lictappfrontend/*.ntvs*
+lictappfrontend/*.njsproj
+lictappfrontend/*.sln
+lictappfrontend/*.sw?
