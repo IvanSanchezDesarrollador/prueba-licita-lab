@@ -1,0 +1,35 @@
+# Ignorar archivos específicos dentro de lictappbackend/
+lictappbackend/dist/
+lictappbackend/node_modules/
+
+# Logs dentro de lictappbackend
+lictappbackend/logs/
+lictappbackend/*.log
+lictappbackend/npm-debug.log*
+lictappbackend/pnpm-debug.log*
+lictappbackend/yarn-debug.log*
+lictappbackend/yarn-error.log*
+lictappbackend/lerna-debug.log*
+
+# OS (si hay archivos del sistema dentro de lictappbackend)
+lictappbackend/.DS_Store
+
+# Tests dentro de lictappbackend
+lictappbackend/coverage/
+lictappbackend/.nyc_output/
+
+# IDEs y editor - Si tiene archivos de configuración de IDE dentro de lictappbackend
+lictappbackend/.idea/
+lictappbackend/.project
+lictappbackend/.classpath
+lictappbackend/.c9/
+lictappbackend/*.launch
+lictappbackend/.settings/
+lictappbackend/*.sublime-workspace
+
+# IDE - VSCode dentro de lictappbackend
+lictappbackend/.vscode/*
+lictappbackend/.vscode/settings.json
+lictappbackend/.vscode/tasks.json
+lictappbackend/.vscode/launch.json
+lictappbackend/.vscode/extensions.json
