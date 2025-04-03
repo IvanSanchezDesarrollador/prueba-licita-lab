@@ -57,6 +57,8 @@ Para crear un usuario administrador, sigue estos pasos:
 }
 ```
 
+4. Los usuarios no administradores se crean en la interface al momento de registrar un nuevo usuario
+
 ## Backend
 - Navega a la carpeta del proyecto backend
 - Instala las dependencias:
