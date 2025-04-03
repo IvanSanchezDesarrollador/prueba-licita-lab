@@ -17,7 +17,7 @@ export class AuthController {
 
   @Post('logout')
   logoutUser(@Res() res: Response) {
-    res.setHeader('Authorization', ''); // Borra el header de Authorization
+    res.setHeader('Authorization', ''); 
     return res.status(HttpStatus.OK).json({ message: 'Logout successful' });
   }
 }

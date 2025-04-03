@@ -4,15 +4,7 @@ import { useSelector } from "react-redux";
 import { RootState } from "../redux/store";
 
 export const Profile = () => {
-  //const user = useSelector((state: RootState) => state.user);
-  const user: UserTokenInterface = {
-    email: "ivan.sanchez@hotmail.com",
-    exp: 12312312,
-    iat: 1231232,
-    id: "q1234231eqw",
-    name: "Ivan Sanchez",
-    role: "User",
-  };
+  const user = useSelector((state: RootState) => state.user);
 
   return (
     <div>

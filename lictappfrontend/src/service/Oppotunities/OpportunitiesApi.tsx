@@ -71,7 +71,7 @@ export const deleteOpportunity = async ({
 }) => {
   try {
     await api.delete(`/opportunity/${userId}`);
-    ActulizarTable(); // Actualiza la tabla después de eliminar
+    ActulizarTable(); 
   } catch (error) {
     console.error("Error al eliminar la oportunidad:", error);
   }

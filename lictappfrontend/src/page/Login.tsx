@@ -12,9 +12,6 @@ export const Login = () => {
 
   const dispatch = useDispatch<AppDispatch>();
   const value = useSelector((state: RootState) => state.value.value);
-
-  //const [value, setValue] = useState<string | null>("1");
-
   const [controlsRefs, setControlsRefs] = useState<
     Record<string, HTMLButtonElement | null>
   >({});

@@ -9,13 +9,12 @@ const api = axios.create({
   },
 });
 
-// Interceptor para agregar el token en cada solicitud
+
 api.interceptors.request.use(
   (config) => {
     const token = store.getState().auth.token;
 
     if (token) {
-      //config.headers.Authorization = `Bearer ${token}`;
       config.headers.Authorization = `Bearer ${token}`;
 
     }

@@ -31,6 +31,5 @@ const userSlice = createSlice({
   },
 });
 
-// 4️⃣ Exportamos las acciones y el reducer
 export const { setUser, clearUser } = userSlice.actions;
 export default userSlice.reducer;
