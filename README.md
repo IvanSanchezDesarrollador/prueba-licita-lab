@@ -58,14 +58,14 @@ Para crear un usuario administrador, sigue estos pasos:
 }
 ```
 
-##Backend
+## Backend
 - Navega a la carpeta del proyecto backend
 - Instala las dependencias:
 
 ```bash
 npm install
 ```
-##Frontend
+## Frontend
 - Navega a la carpeta del proyecto backend
 - Instala las dependencias:
 
