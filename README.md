@@ -23,7 +23,6 @@ Este proyecto es una aplicación para gestionar oportunidades y usuarios. Permit
 
 - **Registro y autenticación de usuarios**:
   - Los usuarios pueden registrarse y autenticarse con JWT.
-  - Los administradores pueden gestionar usuarios y asignarles roles.
   
 - **Gestión de oportunidades**:
   - Los usuarios pueden ver oportunidades disponibles, aplicar filtros por fecha y tipo.
