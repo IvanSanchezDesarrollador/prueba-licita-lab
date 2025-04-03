@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "67ee59230c9e679fa59143df"
+  },
+  "user": "67ee58fa0c9e679fa59143d8",
+  "opportunity": "67ee420025bd1e88cc534d4a",
+  "is_followed": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee59240c9e679fa59143e4"
+  },
+  "user": "67ee58fa0c9e679fa59143d8",
+  "opportunity": "67ee427e25bd1e88cc534d72",
+  "is_followed": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee59250c9e679fa59143e9"
+  },
+  "user": "67ee58fa0c9e679fa59143d8",
+  "opportunity": "67ee424525bd1e88cc534d62",
+  "is_followed": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee592f0c9e679fa59143f6"
+  },
+  "user": "67ee58fa0c9e679fa59143d8",
+  "opportunity": "67ee435125bd1e88cc534daa",
+  "is_followed": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee595d0c9e679fa5914406"
+  },
+  "user": "67ee58fa0c9e679fa59143d8",
+  "opportunity": "67ee433925bd1e88cc534da2",
+  "is_followed": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee59690c9e679fa5914418"
+  },
+  "user": "67ee58fa0c9e679fa59143d8",
+  "opportunity": "67ee42de25bd1e88cc534d92",
+  "is_followed": true,
+  "__v": 0
+}]

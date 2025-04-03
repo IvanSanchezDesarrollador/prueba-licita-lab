@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "67ee41e725bd1e88cc534d42"
+  },
+  "title": "Adquisición de computadores",
+  "type": "67ec8a3d13fbffbcc9eebd5e",
+  "publish_date": {
+    "$date": "2025-04-02T05:00:00.000Z"
+  },
+  "close_date": {
+    "$date": "2025-10-09T05:00:00.000Z"
+  },
+  "code": "L1-01-25",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee420025bd1e88cc534d4a"
+  },
+  "title": "Desarrollo de software empresarial",
+  "type": "67ec8a5513fbffbcc9eebd60",
+  "publish_date": {
+    "$date": "2025-02-04T05:00:00.000Z"
+  },
+  "close_date": {
+    "$date": "2025-07-11T05:00:00.000Z"
+  },
+  "code": "L1-02-25",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee421b25bd1e88cc534d52"
+  },
+  "title": "Suministro de mobiliario de oficina",
+  "type": "67ec8a3d13fbffbcc9eebd5e",
+  "publish_date": {
+    "$date": "2025-01-01T05:00:00.000Z"
+  },
+  "close_date": {
+    "$date": "2025-02-04T05:00:00.000Z"
+  },
+  "code": "L1-03-25",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee423125bd1e88cc534d5a"
+  },
+  "title": "Implementación de red de fibra óptica",
+  "type": "67ec8a5513fbffbcc9eebd60",
+  "publish_date": {
+    "$date": "2025-04-02T05:00:00.000Z"
+  },
+  "close_date": {
+    "$date": "2025-12-19T05:00:00.000Z"
+  },
+  "code": "L1-04-25",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee424525bd1e88cc534d62"
+  },
+  "title": "Mantenimiento de equipos industriales",
+  "type": "67ec8a3d13fbffbcc9eebd5e",
+  "publish_date": {
+    "$date": "2025-02-04T05:00:00.000Z"
+  },
+  "close_date": {
+    "$date": "2025-12-18T05:00:00.000Z"
+  },
+  "code": "L1-05-25",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee426025bd1e88cc534d6a"
+  },
+  "title": "Construcción de edificio corporativo",
+  "type": "67ec8a3d13fbffbcc9eebd5e",
+  "publish_date": {
+    "$date": "2024-08-05T05:00:00.000Z"
+  },
+  "close_date": {
+    "$date": "2026-03-20T05:00:00.000Z"
+  },
+  "code": "L1-06-25",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee427e25bd1e88cc534d72"
+  },
+  "title": "Adquisición de servidores y almacenamiento",
+  "type": "67ec8a5513fbffbcc9eebd60",
+  "publish_date": {
+    "$date": "2024-10-15T05:00:00.000Z"
+  },
+  "close_date": {
+    "$date": "2027-02-19T05:00:00.000Z"
+  },
+  "code": "L1-07-25",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee429525bd1e88cc534d7a"
+  },
+  "title": "Consultoría en transformación digital",
+  "type": "67ec8a3d13fbffbcc9eebd5e",
+  "publish_date": {
+    "$date": "2023-12-01T05:00:00.000Z"
+  },
+  "close_date": {
+    "$date": "2024-10-03T05:00:00.000Z"
+  },
+  "code": "L1-08-25",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee42ac25bd1e88cc534d82"
+  },
+  "title": "Servicios de ciberseguridad",
+  "type": "67ec8a5513fbffbcc9eebd60",
+  "publish_date": {
+    "$date": "2025-04-01T05:00:00.000Z"
+  },
+  "close_date": {
+    "$date": "2025-09-27T05:00:00.000Z"
+  },
+  "code": "L1-09-25",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee42c025bd1e88cc534d8a"
+  },
+  "title": "Implementación de ERP empresarial",
+  "type": "67ec8a3d13fbffbcc9eebd5e",
+  "publish_date": {
+    "$date": "2025-02-03T05:00:00.000Z"
+  },
+  "close_date": {
+    "$date": "2026-10-24T05:00:00.000Z"
+  },
+  "code": "L1-10-25",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee42de25bd1e88cc534d92"
+  },
+  "title": "Renovación de licencias de software",
+  "type": "67ec8a5513fbffbcc9eebd60",
+  "publish_date": {
+    "$date": "2025-04-08T05:00:00.000Z"
+  },
+  "close_date": {
+    "$date": "2029-05-10T05:00:00.000Z"
+  },
+  "code": "L1-11-25",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee432625bd1e88cc534d9a"
+  },
+  "title": "Construcción de parque fotovoltaico",
+  "type": "67ec8a3d13fbffbcc9eebd5e",
+  "publish_date": {
+    "$date": "2025-04-17T05:00:00.000Z"
+  },
+  "close_date": {
+    "$date": "2027-03-27T05:00:00.000Z"
+  },
+  "code": "L1-12-25",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee433925bd1e88cc534da2"
+  },
+  "title": "Servicios de mantenimiento de redes",
+  "type": "67ec8a5513fbffbcc9eebd60",
+  "publish_date": {
+    "$date": "2024-10-14T05:00:00.000Z"
+  },
+  "close_date": {
+    "$date": "2025-10-26T05:00:00.000Z"
+  },
+  "code": "L1-13-25",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee435125bd1e88cc534daa"
+  },
+  "title": "Compra de vehículos corporativos",
+  "type": "67ec8a3d13fbffbcc9eebd5e",
+  "publish_date": {
+    "$date": "2025-04-10T05:00:00.000Z"
+  },
+  "close_date": {
+    "$date": "2026-04-26T05:00:00.000Z"
+  },
+  "code": "L1-14-25",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee436a25bd1e88cc534db2"
+  },
+  "title": "Adquisición de equipos de impresión",
+  "type": "67ec8a5513fbffbcc9eebd60",
+  "publish_date": {
+    "$date": "2022-01-06T05:00:00.000Z"
+  },
+  "close_date": {
+    "$date": "2028-08-04T05:00:00.000Z"
+  },
+  "code": "L1-15-25",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee438325bd1e88cc534dba"
+  },
+  "title": "Implementación de sistemas de videovigilancia",
+  "type": "67ec8a3d13fbffbcc9eebd5e",
+  "publish_date": {
+    "$date": "2025-04-01T05:00:00.000Z"
+  },
+  "close_date": {
+    "$date": "2027-07-06T05:00:00.000Z"
+  },
+  "code": "L1-16-25",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee439e25bd1e88cc534dc2"
+  },
+  "title": "Modernización de infraestructura eléctrica",
+  "type": "67ec8a5513fbffbcc9eebd60",
+  "publish_date": {
+    "$date": "2020-01-01T05:00:00.000Z"
+  },
+  "close_date": {
+    "$date": "2025-05-09T05:00:00.000Z"
+  },
+  "code": "L1-17-25",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee43b825bd1e88cc534dca"
+  },
+  "title": "Servicios de consultoría financiera",
+  "type": "67ec8a3d13fbffbcc9eebd5e",
+  "publish_date": {
+    "$date": "2020-01-16T05:00:00.000Z"
+  },
+  "close_date": {
+    "$date": "2026-02-27T05:00:00.000Z"
+  },
+  "code": "L1-18-25",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee43d325bd1e88cc534dd2"
+  },
+  "title": "Desarrollo de plataforma de e-learning",
+  "type": "67ec8a5513fbffbcc9eebd60",
+  "publish_date": {
+    "$date": "2024-07-16T05:00:00.000Z"
+  },
+  "close_date": {
+    "$date": "2024-10-16T05:00:00.000Z"
+  },
+  "code": "L1-19-25",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee43ec25bd1e88cc534dda"
+  },
+  "title": "Mantenimiento de flota de transporte",
+  "type": "67ec8a5513fbffbcc9eebd60",
+  "publish_date": {
+    "$date": "2014-05-15T05:00:00.000Z"
+  },
+  "close_date": {
+    "$date": "2019-08-08T05:00:00.000Z"
+  },
+  "code": "L1-20-25",
+  "__v": 0
+}]

@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "67ee58aa0c9e679fa59143d2"
+  },
+  "name": "Ivan Sanchez",
+  "email": "ivan.sanchez@hotmial.com",
+  "password": "$2b$10$R6Y5mNm1/7QPLcwoqyrpmOsiedHRjz0qBQWhvuP6X3WCcEIG/rg/S",
+  "role": "Admin",
+  "createdAt": {
+    "$date": "2025-04-03T09:45:14.744Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-03T09:45:14.744Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ee58fa0c9e679fa59143d8"
+  },
+  "name": "Alex Pando",
+  "email": "alex.pando@hotmail.com",
+  "password": "$2b$10$ZLIVcUzlij2YtSntdmRGiep4YjyJnuPlrXnC2JKUt26bgwDE420h2",
+  "role": "User",
+  "createdAt": {
+    "$date": "2025-04-03T09:46:34.970Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-03T09:46:34.970Z"
+  },
+  "__v": 0
+}]
