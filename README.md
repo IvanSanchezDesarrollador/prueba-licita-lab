@@ -56,3 +56,7 @@ Para crear un usuario administrador, sigue estos pasos:
     "updatedAt": "2025-04-03T09:45:14.744Z",
     "__v": 0
 }
+
+```bash
+node app
+```
